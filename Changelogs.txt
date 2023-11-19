@@ -1,2 +1,6 @@
-WHAT'S NEW?
-Possible release soon..
+#Info
+Release Soon
+#General
+Improvements to UI and Gameplay!
+#Content
+Better animations
