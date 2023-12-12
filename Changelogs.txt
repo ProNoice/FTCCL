@@ -1,6 +1,7 @@
 V0.1.1 (Mini)
 #General
 Improvements to UI and Gameplay!
+Greatly enhanced notification system!
 #Content
 Better animations!
 Added pets!
