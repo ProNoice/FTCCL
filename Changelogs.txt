@@ -6,4 +6,4 @@ Greatly enhanced notification system!
 Better animations!
 Added pets!
 #Info
-Release Soon!
+Release on Jan 23!
