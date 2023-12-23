@@ -1,4 +1,4 @@
-V0.1.1 (Mini)
+V0.9.5 (Major)
 #General
 Improvements to UI and Gameplay!
 Greatly enhanced notification system!
