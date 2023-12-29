@@ -1,9 +1,9 @@
-V0.9.5 (Major)
+V0.8.9 (Major)
 #General
 Improvements to UI and Gameplay!
-Greatly enhanced notification system!
+Fixed a ton of bugs!
 #Content
-Better animations!
-Added pets!
+Upgraded pet system
+Greatly improved inventory & added deleting pets
 #Info
 Release on Jan 23!
