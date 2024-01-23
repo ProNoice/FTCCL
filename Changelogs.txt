@@ -1,10 +1,3 @@
 V0.9.1 (Major)
 #General
-ADDED TUTORIAL!
-Improvements to UI and Gameplay!
-Fixed a ton of bugs!
-#Content
-Upgraded pet system
-Greatly improved inventory & added deleting pets
-#Info
-Release on Jan 23!
+RELEASE
